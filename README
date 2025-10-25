@@ -1,6 +1,5 @@
-A simple window renderer for C++
-================================
-How to compile 
+## A simple window renderer for C++
+## How to compile
 1. Install g++
 2. Pull this repo
 3. Compile 
