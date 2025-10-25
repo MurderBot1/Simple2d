@@ -4,7 +4,9 @@ How to compile
 1. Install g++
 2. Pull this repo
 3. Compile 
+~~~
 cd src
 g++ -o Simple2d.exe Window.cpp font8x8/font8x8_basic.cpp main.cpp -lgdi32 -luser32 -lmsimg32 -Wunused
 ./Simple2d
 cd ..
+~~~
